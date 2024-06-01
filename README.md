@@ -1,22 +1,20 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Uzair Ali</h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
+<h3 align="center">A passionate Data Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair-1&label=Profile%20views&color=0e75b6&style=flat" alt="uzair-1" /> </p>
 
-- 🔭 I’m currently working on **Flutter Application ,Dart and C++**
+- 🔭 I’m currently working on **Data Analyst || Data Engineering Domain**
 
-- 🌱 I’m currently learning **BACHLOR IN COMPUTER SCIENCE**
+- 🌱 I’m currently learning **BACHELOR IN COMPUTER SCIENCE**
 
-- 👯 I’m looking to collaborate on **BUILDING APP**
+- 👯 I’m looking to collaborate on **Data Analyst || Data Engineering || ETL**
 
-- 💬 Ask me about **C++,Flutter,Dart**
+- 💬 Ask me about **Data Analyst || Data Engineering**
 
 - 📫 How to reach me **uzairali7212@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
